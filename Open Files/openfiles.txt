@@ -1,11 +1,11 @@
-Enable Kill Button=Ενεργοποίηση κουμπιού Kill
+Enable Kill Button=Ενεργοποίηση Κουμπιού Kill
 Process=Διεργασία
-Kill Process=Τερματισμός διεργασίας
+Kill Process=Τερματισμός Διεργασίας
 Kill this Process holding files open=Τερματισμός της διεργασίας που κρατά ανοιχτά αρχεία
-Process ID=ID διεργασίας
+Process ID=ID Διεργασίας
 Open=Ανοιχτά
 May prevent shutdown=Μπορεί να εμποδίσει τον τερματισμό
-File Name and Path=Όνομα και διαδρομή αρχείου
+File Name and Path=Όνομα και Διαδρομή Αρχείου
 An entry for bash means you have a terminal session open with the working directory on the array=Μια εγγραφή για bash σημαίνει ότι έχετε ανοιχτή συνεδρία τερματικού με τρέχοντα φάκελο στο array
 If smbd is listed, it means that another computer has a samba share mounted=Αν εμφανίζεται το smbd, σημαίνει ότι άλλος υπολογιστής έχει προσαρτήσει ένα samba share
 Files open by Samba usually wont prevent array shutdown=Τα αρχεία που έχει ανοίξει το Samba συνήθως δεν εμποδίζουν τη διακοπή του array

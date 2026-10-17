@@ -1,7 +1,7 @@
 Adaptive=Προσαρμοστικό
 Cache pressure of directories on system=Cache pressure φακέλων στο σύστημα
 Check HELP for filter example=Δείτε τη ΒΟΗΘΕΙΑ για παράδειγμα φίλτρου
-Disk Idle Timer=Χρονόμετρο αδράνειας δίσκων
+Disk Idle Timer=Χρονόμετρο Αδράνειας Δίσκων
 Folder caching function=Λειτουργία caching φακέλων
 for adaptive depth=για προσαρμοστικό βάθος
 Important - check HELP if disks spin up=Σημαντικό - δείτε τη ΒΟΗΘΕΙΑ αν οι δίσκοι κάνουν spin up
@@ -20,7 +20,7 @@ Timeout when all directories have been cached=Χρονικό όριο όταν �
 Scan user shares mntuser=Σάρωση user shares (/mnt/user)
 Suspend during Mover process=Αναστολή κατά τη διεργασία 'Mover'
 unlimited=απεριόριστο
-Unraid forum=φόρουμ Unraid
+Unraid forum=Φόρουμ Unraid
 Use Adaptive depth=Χρήση προσαρμοστικού βάθους
 User defined options=Επιλογές χρήστη
 

@@ -5,7 +5,7 @@ No active streams=Δεν υπάρχουν ενεργές ροές
 Playtime=Χρόνος αναπαραγωγής
 Stop stream=Διακοπή ροής
 Stream=Ροή
-User Name=Όνομα χρήστη
+User Name=Όνομα Χρήστη
 User=Χρήστης
 
 :streams_plug:

@@ -1,5 +1,5 @@
 Not available=Μη διαθέσιμο
 P + Q algorithm=Αλγόριθμος P + Q
-System Overview=Επισκόπηση συστήματος
+System Overview=Επισκόπηση Συστήματος
 Unraid server=Διακομιστής Unraid
 Unraid system=Σύστημα Unraid

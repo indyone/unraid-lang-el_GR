@@ -1,13 +1,13 @@
-Display Events=Εμφάνιση συμβάντων
-File Activity=Δραστηριότητα αρχείων
-File Activity Monitoring=Παρακολούθηση δραστηριότητας αρχείων
-Start File Activity=Έναρξη δραστηριότητας αρχείων
-Stop File Activity Monitoring=Διακοπή παρακολούθησης δραστηριότητας αρχείων
+Display Events=Εμφάνιση Συμβάντων
+File Activity=Δραστηριότητα Αρχείων
+File Activity Monitoring=Παρακολούθηση Δραστηριότητας Αρχείων
+Start File Activity=Έναρξη Δραστηριότητας Αρχείων
+Stop File Activity Monitoring=Διακοπή Παρακολούθησης Δραστηριότητας Αρχείων
 Clear the File Activity log=Εκκαθάριση του log δραστηριότητας αρχείων
-Refresh Page=Ανανέωση σελίδας
-Enable File Activity Monitoring=Ενεργοποίηση παρακολούθησης δραστηριότητας αρχείων
+Refresh Page=Ανανέωση Σελίδας
+Enable File Activity Monitoring=Ενεργοποίηση Παρακολούθησης Δραστηριότητας Αρχείων
 Enable for Unassigned Devices=Ενεργοποίηση για Unassigned Devices
-Enable for Cache and Pool Disks=Ενεργοποίηση για δίσκους Cache και Pool
+Enable for Cache and Pool Disks=Ενεργοποίηση για Δίσκους Cache και Pool
 ;
 ; Help
 ;

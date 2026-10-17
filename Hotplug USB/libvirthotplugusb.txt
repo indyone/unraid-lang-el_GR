@@ -1,5 +1,5 @@
 Hotplug USB=Hotplug USB
-Running VMs=VMs σε εκτέλεση
+Running VMs=VMs σε Εκτέλεση
 Attach=Σύνδεση
 Attach the USB device to the selected VM=Σύνδεση της συσκευής USB στην επιλεγμένη VM
 Detach=Αποσύνδεση
@@ -12,7 +12,7 @@ Some USB Devices require detaching and attaching multiple times to be properly d
 If you disconnected the USB device while it was attached to a VM, you will have to detach it and then re-attach it=Αν αποσυνδέσατε τη συσκευή USB ενώ ήταν συνδεδεμένη σε VM, θα πρέπει να την αποσυνδέσετε και να τη συνδέσετε ξανά
 Detaching Please wait=Αποσύνδεση. Παρακαλώ περιμένετε
 Attaching Please wait=Σύνδεση. Παρακαλώ περιμένετε
-No VM Selected=Δεν επιλέχθηκε VM
+No VM Selected=Δεν Επιλέχθηκε VM
 No USB devices=Καμία συσκευή USB
 ;
 ; Help

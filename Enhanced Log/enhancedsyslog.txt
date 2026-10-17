@@ -1,4 +1,4 @@
-Enhanced System Log=Βελτιωμένο Log συστήματος
-Minor Issues=Μικρά προβλήματα
-File System=Σύστημα αρχείων
-Drive Related=Σχετικά με δίσκους
+Enhanced System Log=Βελτιωμένο Log Συστήματος
+Minor Issues=Μικρά Προβλήματα
+File System=Σύστημα Αρχείων
+Drive Related=Σχετικά με Δίσκους

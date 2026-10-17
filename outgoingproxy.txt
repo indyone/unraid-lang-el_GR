@@ -1,4 +1,4 @@
-Enable Outgoing Proxy=Ενεργοποίηση εξερχόμενου Proxy
+Enable Outgoing Proxy=Ενεργοποίηση Εξερχόμενου Proxy
 Name=Όνομα
 Optional=Προαιρετικό
 Outgoing Proxy=Εξερχόμενο Proxy

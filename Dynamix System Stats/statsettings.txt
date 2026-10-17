@@ -9,7 +9,7 @@
 Bits per second=Bits ανά δευτερόλεπτο
 Bytes per second=Bytes ανά δευτερόλεπτο
 CPU graph scaling=Κλίμακα γραφήματος CPU
-Disk Stats=Στατιστικά δίσκων
+Disk Stats=Στατιστικά Δίσκων
 Ethernet interface=Διεπαφή Ethernet
 Four=Τέσσερα
 Header menu=Μενού κεφαλίδας
@@ -33,7 +33,7 @@ Since start=Από την εκκίνηση
 Single=Ένα
 Storage=Αποθήκευση
 System graphs view per row=Γραφήματα συστήματος ανά γραμμή
-System Stats=Στατιστικά συστήματος
+System Stats=Στατιστικά Συστήματος
 Three=Τρία
 Tools menu=Μενού Εργαλείων
 Viewable system graphs=Ορατά γραφήματα συστήματος

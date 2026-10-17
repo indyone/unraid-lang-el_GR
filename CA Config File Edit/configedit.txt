@@ -1,11 +1,11 @@
-Select File=Επιλογή αρχείου
+Select File=Επιλογή Αρχείου
 Error reading file=Σφάλμα ανάγνωσης αρχείου
-No Backup File Found=Δεν βρέθηκε αρχείο αντιγράφου
+No Backup File Found=Δεν Βρέθηκε Αρχείο Αντιγράφου
 Select a file to edit=Επιλέξτε αρχείο για επεξεργασία
 note editing a binary file could have unintended consequences=σημείωση: η επεξεργασία δυαδικού αρχείου μπορεί να έχει απρόβλεπτες συνέπειες
 No file selected=Δεν επιλέχθηκε αρχείο
-Backup File=Αρχείο αντιγράφου
+Backup File=Αρχείο Αντιγράφου
 Editing=Επεξεργασία
 Generally, it is not recommended to change the format=Γενικά, δεν συνιστάται η αλλαγή της μορφής
 Credits=Συντελεστές
-File Format=Μορφή αρχείου
+File Format=Μορφή Αρχείου
